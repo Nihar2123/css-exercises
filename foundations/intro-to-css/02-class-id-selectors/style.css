@@ -1,0 +1,18 @@
+.basic{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#num2{
+    color: #0000FFDD;
+    font-size: 36px;
+}
+
+.num3n4{
+    font-size: 24px;
+}
+
+#num4{
+    background-color: hsl(120, 63%, 53%);
+    font-weight: bold;
+}
