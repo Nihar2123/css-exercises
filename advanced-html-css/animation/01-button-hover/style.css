@@ -6,6 +6,11 @@
   justify-content: center;
   align-items: center;
   font-family: Arial, sans-serif;
+  transition: transform 0.5s ease-in-out;
+}
+
+#transition-container button:hover{
+  transform: scale(1.05);
 }
 
 button {
